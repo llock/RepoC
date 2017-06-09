@@ -18,6 +18,6 @@
     </tr>
   </table>
 
-	<%="Cheers! Last updated: 2017-06-09_11-02."%>
+	<%="Cheers! Last updated: 2017-06-09 11:31."%>
 </body>
 </html>
